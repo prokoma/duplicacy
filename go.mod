@@ -7,6 +7,7 @@ require (
 	github.com/aryann/difflib v0.0.0-20170710044230-e206f873d14a
 	github.com/aws/aws-sdk-go v1.30.7
 	github.com/bkaradzic/go-lz4 v1.0.0
+	github.com/cvilsmeier/sqinn-go v1.1.2
 	github.com/gilbertchen/azure-sdk-for-go v14.1.2-0.20180323033227-8fd4663cab7c+incompatible
 	github.com/gilbertchen/cli v1.2.1-0.20160223210219-1de0a1836ce9
 	github.com/gilbertchen/go-dropbox v0.0.0-20230321030224-087ef8db1916
@@ -16,6 +17,7 @@ require (
 	github.com/gilbertchen/highwayhash v0.0.0-20221109044721-eeab1f4799d8
 	github.com/gilbertchen/keyring v0.0.0-20221004152639-1661cbebc508
 	github.com/gilbertchen/xattr v0.0.0-20160926155429-68e7a6806b01
+	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/klauspost/compress v1.16.3
 	github.com/klauspost/reedsolomon v1.9.9
@@ -25,6 +27,7 @@ require (
 	github.com/pkg/sftp v1.11.0
 	github.com/pkg/xattr v0.4.1
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
+	github.com/winfsp/cgofuse v1.5.0
 	golang.org/x/crypto v0.12.0
 	golang.org/x/net v0.10.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
