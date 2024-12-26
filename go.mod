@@ -15,7 +15,6 @@ require (
 	github.com/gilbertchen/goamz v0.0.0-20170712012135-eada9f4e8cc2
 	github.com/gilbertchen/gopass v0.0.0-20170109162249-bf9dde6d0d2c
 	github.com/gilbertchen/highwayhash v0.0.0-20221109044721-eeab1f4799d8
-	github.com/gilbertchen/keyring v0.0.0-20221004152639-1661cbebc508
 	github.com/gilbertchen/xattr v0.0.0-20160926155429-68e7a6806b01
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hirochachacha/go-smb2 v1.1.0
@@ -43,7 +42,6 @@ require (
 	github.com/flynn/noise v1.0.0 // indirect
 	github.com/geoffgarside/ber v1.1.0 // indirect
 	github.com/goamz/goamz v0.0.0-20180131231218-8b901b531db8 // indirect
-	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.5.0 // indirect
